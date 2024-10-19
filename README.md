@@ -1,6 +1,6 @@
 # MERN STACK E-COMMERCE-2024 
 
-hy, this is the e-commerce app with complete latest features and updates of MERN Stack technology 
+hy, This is the e-commerce app with complete latest features and updates of MERN Stack technology 
 
 # Client_Side - Front-End
  using React ,React-Router-dom and RTK Query , Fire Base for authentication and get data from the database and
