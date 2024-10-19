@@ -14,9 +14,9 @@ hy, This is the e-commerce app with complete latest features and updates of MERN
    
   # Server-side  Back-End 
 
-    ## Error-handling Form-vlaidations jwt-authentication Redis cloudinary ##
+   ## Error-handling Form-vlaidations jwt-authentication Redis cloudinary ##
 
-    *  Errorhandlig for all the files and wrap the files with try catch block
+   *  Errorhandlig for all the files and wrap the files with try catch block
     *  form validation and revalidation for catching 
     *  jwt authentication using bcrypt and crypto
     *  Redis for improvement of application performance and scalability
